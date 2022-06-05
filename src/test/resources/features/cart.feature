@@ -12,7 +12,7 @@ Feature: Cart feature
   @Test
   Scenario: UI002.AddWatchList
     Given Open login page
-    When "keminssster@gmail.com" and "kaan0604" are entered.
+    When "dajaj52698@dilanfa.com" and "Test0101" are entered.
     And Clear watch list
     And Hover "Home & Garden" category and open "Home Décor" subcategory
     And Check "Home Décor" subcategory name
